@@ -10,6 +10,7 @@ public class MinhaPrimeiraApiRestfullApplication {
 		SpringApplication.run(MinhaPrimeiraApiRestfullApplication.class, args);
 		System.out.println("Hello Spring boot!");
 		System.out.println("Linha para mais um commit");
+		System.out.println("Treinando fander o clone");
 	}
 
 }
